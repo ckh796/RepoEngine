@@ -2,7 +2,9 @@
 
 RepoEngine is a modern SwiftUI iOS app that lets users search and browse GitHub repositories with a clean architecture and responsive UI. It demonstrates best practices in MVVM, dependency injection, pagination, and async data loading.
 
-## 🚀 Features
+## To enable unit testing, set isUnitTesting to true in Config.swift
+
+##  Features
 
 - GitHub repository search with live debounce filtering
 - Dark/Light mode
@@ -16,7 +18,7 @@ RepoEngine is a modern SwiftUI iOS app that lets users search and browse GitHub 
 - Keyboard dismissal on scroll or tap
 - Modal-based repository detail presentation (`.sheet`)
 
-## 🛠 Architecture
+##  Architecture
 
 - **MVVM**: Model-View-ViewModel pattern
 - **Dependency Injection**: `RepositoryProviding` protocol allows injecting mock or real implementations
