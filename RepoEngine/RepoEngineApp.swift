@@ -18,7 +18,3 @@ struct RepoEngineApp: App {
     }
 }
 
-struct Config {
-    static var isUnitTesting = false 
-}
-
