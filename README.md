@@ -1,3 +1,6 @@
+
+![RepoEngine 2](https://github.com/user-attachments/assets/40bf227e-9e76-4501-9970-c9d5490e6736)
+
 # RepoEngine
 
 RepoEngine is a modern SwiftUI iOS app that lets users search and browse GitHub repositories with a clean architecture and responsive UI. It demonstrates best practices in MVVM, dependency injection, pagination, and async data loading.
